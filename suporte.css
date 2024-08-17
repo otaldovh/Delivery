@@ -1,0 +1,49 @@
+*{
+    border: none;
+    margin: 0;
+}
+body{
+    background-color:  rgba(218, 200, 179, 1);
+    display: flex;
+}
+#metade1{
+    background-color: rgba(0, 159, 82, 1);
+    width: 250rem;
+    height: 100vh;
+
+}
+#ns{
+    font-size: 5vh;
+    margin-left: 20%;
+    margin-top: 5%;
+    color: white;
+}
+#cc{
+    font-size: 5vh;
+    margin-left: 6%;
+    margin-top: 5%;
+    color: white;
+}
+#email{
+    font-size: 5vh;
+    margin-left: 6%;
+    margin-top: 5%;
+    color: white;
+}
+#nmr{
+    font-size: 5vh;
+    margin-left: 6%;
+    margin-top: 5%;
+    color: white;
+}
+#frase{
+    font-size: 5vh;
+    margin-left: 10%;
+    margin-top: 10%;
+    color: white;
+}
+#metade2{
+    margin: 5%;
+    font-size: 4vh;
+    margin-top: 15%;
+}

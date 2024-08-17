@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    border: none;
+}
+body{
+    background-color:  rgba(218, 200, 179, 1);
+    display: flex;
+}
+#umametade{
+    background-color: rgba(27, 64, 1, 1);
+    width: 1600px;
+    height: 100vh;
+}
+#outrametade{
+    font-size: 4vh;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+}
+#pedido{
+    width: 60%;
+    height: 35%;
+    margin-left: 14%;
+    font-size: x-large;
+}
+#bebida{
+    font-size: 4vh;
+    color: white;
+    margin-left: 20%;
+}
+#bebidinha{
+    width: 60%;
+    height: 6%;
+    margin-left: 14%;
+    font-size: x-large;
+}
